@@ -1,6 +1,6 @@
-import "./EightBallSpinner.css";
+import "./8ball.css";
 
-export default function EightBallSpinner() {
+export default function EightBall() {
 	return (
 		<div className="eightball-container">
 			<div className="eightball">
